@@ -1,4 +1,4 @@
-# Descending into M with Linear Regression 
+# Descending into ML with Linear Regression 
 y = wz + b  
 Where `w` is the weight vector and `b` is the bias
 
