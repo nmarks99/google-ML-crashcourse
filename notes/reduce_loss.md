@@ -1,6 +1,11 @@
 # Reducing Loss
-Words...  
-more words...  
-even more words...  
+<img src='imgs/diagram1.png'>
+
+## Gradient Descent
+- Compute gradient of the loss function to find which direction to go at the next iteration
+- Learning rate defines how big the gradient steps are 
+
+ 
+
 
 
